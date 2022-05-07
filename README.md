@@ -4,7 +4,7 @@ DevManView (https://www.nirsoft.net/utils/device_manager_view.html) is an altern
 
 This is a personal project, not related with NirSoft (https://www.nirsoft.net) or PortableApps (https://portableapps.com) (but it be integrated with PortableApps Platform).
 Only unpack and enjoy (unpack in PortableApps folder to integrate with him).
-This is packed with NirSoft 1.76 and correct enviroment select (32 or 64 bit)
+This is packed with NirSoft 1.76 and correct enviroment select (32 or 64 bit).
 
 By bremaya
 @bremaya2
